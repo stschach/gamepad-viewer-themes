@@ -1,6 +1,6 @@
 @keyframes colorhue{
-    from {-webkit-filter: hue-rotate(120deg); filter: hue-rotate(120deg);}
-    to {-webkit-filter: hue-rotate(120deg); filter: hue-rotate(120deg);}
+    from {-webkit-filter: hue-rotate(0deg); filter: hue-rotate(0deg);}
+    to {-webkit-filter: hue-rotate(359deg); filter: hue-rotate(359deg);}
 }
 
 .edit {
